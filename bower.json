@@ -1,0 +1,19 @@
+{
+  "name": "ion-sound-es6-shim",
+  "main": "ion-sound-es6-shim.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/courthead/ion-sound-es6-shim",
+  "authors": [
+    "Courtland Allen <courtlandallen@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ionsound": "~3.0.0"
+  }
+}
